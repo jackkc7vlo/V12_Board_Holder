@@ -1,9 +1,11 @@
 # V12 Board Holder
 
 Board Holder for V12 of the T41-EP SDT software defined transceiver.
-![[holder2.jpg]]
 
-![[Holder1.jpg]]
+![Board Holder 1](images/Holder1.png)
+
+![Board Holder 2](images/Holder2.png)
+
 The print was created in FreeCad and is a parametric design.
 
 To obtain the latest files, they can be retrieved from github by using the following command:
